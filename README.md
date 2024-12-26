@@ -6,7 +6,7 @@ This repository is for my **real-world quantitative projects**, focused on explo
 
 - *(No projects yet. Stay tuned for updates!)*
 
-## 🛠 Tools I'm Using
+## 🛠 Tools I will be Using
 - **Programming Language**: Python
 - **Techniques**:
   - Optimization algorithms
